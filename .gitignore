@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.streamlit/config.toml
+.streamlit/secrets.toml
+artifacts/
+*.png
+!bg.png
+bg_base64.txt
+sample_data.csv
+.devcontainer/
