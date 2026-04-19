@@ -8,5 +8,4 @@ artifacts/
 *.png
 !bg.png
 bg_base64.txt
-sample_data.csv
 .devcontainer/
